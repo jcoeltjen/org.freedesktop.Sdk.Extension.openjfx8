@@ -1,0 +1,15 @@
+  
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <id>org.freedesktop.Sdk.Extension.openjfx8</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license> GPL-2.0 AND GPL-2.0-with-classpath-exception AND IJG AND ISC AND LGPL-2.1-or-later AND MIT AND MPL-2.0 AND RSA-MD AND SAX-PD AND W3C AND Zlib</project_license>
+  <name>OpenJFX 8 SDK Extension</name>
+  <summary>OpenJFX 8 SSK Extension</summary>
+  <description>
+    <p>
+      This SDK extension allows you to build java apps that require OpenJFX.
+      This extension can also be used to install OpenJFX into another JDK/JRE Installation.
+    </p>
+  </description>
+</component>

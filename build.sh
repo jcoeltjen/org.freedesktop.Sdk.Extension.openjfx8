@@ -1,0 +1,1 @@
+flatpak-builder --install --force-clean build org.freedesktop.Sdk.Extension.openjfx8.yml
